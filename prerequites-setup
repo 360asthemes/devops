@@ -2,3 +2,15 @@
 
 #Install Chocolatey for Windows
 #Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+
+Run all the below commands on Powershell (Open Powershell as Admin)
+choco install virtualbox --version=7.0.8 -y
+choco install vagrant --version=2.3.7 -y
+choco install git -y
+choco install corretto11jdk -y
+choco install maven -y
+choco install awscli -y
+choco install intellijidea-community -y
+choco install vscode -y
+choco install sublimetext3.app -y
