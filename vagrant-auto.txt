@@ -1,7 +1,9 @@
 #vagrant commands
 #https://app.vagrantup.com/
 
-1. vagrant init box-name
+Step 1: Create Folder
+Step 2: Go to Folder
+1. vagrant init box-name and cat VagrantFile
 2.vagrant up
 3.vagrant status
 4.vagrant halt
