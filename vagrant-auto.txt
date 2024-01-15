@@ -7,3 +7,4 @@
 4.vagrant halt
 5.vagrant destroy
 6.vagrant reload
+7. vagrant box list
