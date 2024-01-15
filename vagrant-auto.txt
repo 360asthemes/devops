@@ -1,0 +1,9 @@
+#vagrant commands
+#https://app.vagrantup.com/
+
+1. vagrant init box-name
+2.vagrant up
+3.vagrant status
+4.vagrant halt
+5.vagrant destroy
+6.vagrant reload
