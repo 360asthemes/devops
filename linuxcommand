@@ -1,0 +1,2 @@
+CP Source Destination //Copy File
+grep -iR SearchString > Destination // Search i is for case insenstive and R is for directory search
